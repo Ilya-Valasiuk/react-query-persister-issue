@@ -1,7 +1,7 @@
 # Steps to reproduce the issue:
 1) `npm i`
 2) `npm run build && npm run start`
-3) open localhost:3000
+3) open http://localhost:3000/
 4) Click 'Set data' button
 
 
